@@ -1,0 +1,18 @@
+fruits = []
+f1 = input("Enter the fruit name 1 : ")
+fruits.append(f1)
+f1 = input("Enter the fruit name 2 : ")
+fruits.append(f1)
+f1 = input("Enter the fruit name 3 : ")
+fruits.append(f1)
+f1 = input("Enter the fruit name 4 : ")
+fruits.append(f1)
+f1 = input("Enter the fruit name 5 : ")
+fruits.append(f1)
+f1 = input("Enter the fruit name 6 : ")
+fruits.append(f1)
+f1 = input("Enter the fruit name 7 : ")
+fruits.append(f1)
+
+fruits.sort()
+print(fruits)
